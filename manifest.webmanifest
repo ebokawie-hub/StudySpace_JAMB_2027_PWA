@@ -1,0 +1,10 @@
+{
+  "name": "StudySpace JAMB 2027",
+  "short_name": "JAMB 2027",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f7fc",
+  "theme_color": "#6558d3",
+  "description": "Offline-first JAMB syllabus tracker, planner, notes and CBT practice.",
+  "icons": []
+}

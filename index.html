@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#6558d3"><meta name="description" content="Offline-first 2027 JAMB study planner, syllabus tracker, notes and CBT practice.">
+<link rel="manifest" href="manifest.webmanifest"><link rel="stylesheet" href="styles.css">
+<title>JAMB 2027 • StudySpace</title>
+</head>
+<body>
+<div class="app-shell">
+  <aside class="sidebar">
+    <div class="brand"><div class="brand-mark">J</div><div><b>StudySpace</b><small>JAMB 2027</small></div></div>
+    <nav id="nav">
+      <button class="nav-item active" data-view="overview"><span>▦</span> Overview</button>
+      <button class="nav-item" data-view="syllabus"><span>☑</span> Syllabus tracker</button>
+      <button class="nav-item" data-view="planner"><span>▣</span> Study planner</button>
+      <button class="nav-item" data-view="notes"><span>✎</span> My notes</button>
+      <button class="nav-item" data-view="cbt"><span>◉</span> CBT practice</button>
+    </nav>
+    <div class="sidebar-bottom"><div class="offline-pill"><i></i><span id="connectionText">Checking connection…</span></div><small>Your work is saved on this device.</small></div>
+  </aside>
+  <main class="main">
+    <header class="topbar"><button class="menu-btn" id="menuBtn" aria-label="Open menu">☰</button><div><div class="eyebrow">YOUR PERSONAL STUDY SPACE</div><h1 id="pageTitle">Good study day!</h1></div><div class="top-actions"><span class="save-state" id="saveState">● Saved locally</span><button class="icon-btn" id="exportBtn" title="Export backup">⇧</button><button class="avatar" title="JAMB 2027">27</button></div></header>
+    <section id="view" class="view"></section>
+    <footer>StudySpace • Offline-first JAMB preparation <span id="appVersion">Version 1.0</span></footer>
+  </main>
+</div>
+<div id="toast" class="toast" role="status"></div>
+<input id="importFile" type="file" accept="application/json" hidden>
+<script src="app.js"></script>
+</body></html>

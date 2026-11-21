@@ -1,0 +1,350 @@
+{
+  "Mathematics": [
+    {
+      "topic": "Number bases / Modular arithmetic",
+      "detail": "Number bases 2–10; conversion between bases, including fractions; arithmetic in different bases; modular arithmetic."
+    },
+    {
+      "topic": "Fractions, decimals, approximations and percentages",
+      "detail": "Fractions and decimals; significant figures; decimal places; percentage errors; simple interest; profit and loss; ratio, proportion and rate; shares; VAT."
+    },
+    {
+      "topic": "Indices, logarithms and surds",
+      "detail": "Laws of indices; equations involving indices; standard form; laws of logarithms; logarithms to given bases; change of base; indices-logarithms relationship; surds and rationalisation."
+    },
+    {
+      "topic": "Sets",
+      "detail": "Types of sets; set notation and algebra; subsets, complements, universal, empty, finite, infinite and disjoint sets; cardinality; Venn diagrams (up to three sets)."
+    },
+    {
+      "topic": "Polynomials",
+      "detail": "Changing the subject of a formula; polynomial operations; factorisation up to degree 3; roots; factor and remainder theorems; simultaneous linear/quadratic equations; polynomial graphs and maximum/minimum values."
+    },
+    {
+      "topic": "Variation",
+      "detail": "Direct, inverse, joint and partial variation; percentage increase and decrease."
+    },
+    {
+      "topic": "Inequalities",
+      "detail": "Linear inequalities; analytical and graphical solutions; quadratic inequalities with integral roots; interpretation of inequality graphs."
+    },
+    {
+      "topic": "Progression",
+      "detail": "Sequences and nth term; arithmetic progression (A.P.); geometric progression (G.P.); sums of A.P. and G.P.; sum to infinity of a G.P."
+    },
+    {
+      "topic": "Binary operations",
+      "detail": "Closure, commutativity, associativity and distributivity; identity and inverse elements in simple cases."
+    },
+    {
+      "topic": "Matrices and determinants",
+      "detail": "Matrix algebra up to 3×3; addition, subtraction and multiplication; determinants up to 3×3; inverse of 2×2 matrices."
+    },
+    {
+      "topic": "Euclidean geometry",
+      "detail": "Lines and angles; triangles; quadrilaterals and polygons; circle theorems; cyclic quadrilaterals; intersecting chords; geometric constructions and special angles."
+    },
+    {
+      "topic": "Mensuration",
+      "detail": "Perimeters and areas of plane figures; arcs and chords; sectors and segments; surface areas and volumes of solids and composite shapes; longitude and latitude on the earth as a sphere."
+    },
+    {
+      "topic": "Loci",
+      "detail": "Two-dimensional loci; parallel lines; perpendicular bisectors; angle bisectors; circles and related geometric loci."
+    },
+    {
+      "topic": "Coordinate geometry",
+      "detail": "Midpoint; gradient; distance between points; parallel and perpendicular lines; equations of straight lines in common forms."
+    },
+    {
+      "topic": "Trigonometry",
+      "detail": "Trigonometric ratios; angles from −360° to 360°; special angles; elevation and depression; bearings; area and solutions of triangles; sine and cosine rules; sine and cosine graphs."
+    },
+    {
+      "topic": "Differentiation",
+      "detail": "Limits of functions; differentiation of explicit algebraic functions; simple trigonometric functions (sine, cosine and tangent)."
+    },
+    {
+      "topic": "Application of differentiation",
+      "detail": "Rates of change; maxima and minima; practical problems involving differentiation."
+    },
+    {
+      "topic": "Integration",
+      "detail": "Integration of explicit algebraic and simple trigonometric functions; area under a curve in simple cases."
+    },
+    {
+      "topic": "Representation of data",
+      "detail": "Frequency distributions; tables; histograms; bar charts; pie charts; interpretation of data displays."
+    },
+    {
+      "topic": "Measures of location",
+      "detail": "Mean, median and mode for grouped and ungrouped data; cumulative frequency; ogives; quartiles and percentiles."
+    },
+    {
+      "topic": "Measures of dispersion",
+      "detail": "Range; mean deviation; variance; standard deviation for grouped and ungrouped data."
+    },
+    {
+      "topic": "Permutation and combination",
+      "detail": "Linear and circular arrangements; arrangements with repeated objects; counting selections and arrangements."
+    },
+    {
+      "topic": "Probability",
+      "detail": "Experimental probability; coins and dice; addition and multiplication rules; mutually exclusive and independent events."
+    }
+  ],
+  "Physics": [
+    {
+      "topic": "Measurements and units",
+      "detail": "Fundamental and derived quantities and units; length, mass, time, charge, temperature; measuring instruments; dimensions; accuracy, errors, significant figures and standard form."
+    },
+    {
+      "topic": "Scalars and vectors",
+      "detail": "Scalar and vector quantities; vector addition and resultants; resolution into perpendicular components; relative velocity; graphical methods."
+    },
+    {
+      "topic": "Measurement, position, distance and displacement",
+      "detail": "Position and coordinates; frame of reference; distance versus displacement; direction; measuring and plotting positions."
+    },
+    {
+      "topic": "Motion",
+      "detail": "Types and causes of motion; speed, velocity and acceleration; equations of uniformly accelerated motion; motion under gravity; graphs; projectiles; circular motion; simple harmonic motion, resonance and forced vibration."
+    },
+    {
+      "topic": "Gravitational field",
+      "detail": "Newton's law of gravitation; gravitational field and potential; acceleration due to gravity and its variation; mass and weight; escape velocity; parking orbits and weightlessness."
+    },
+    {
+      "topic": "Equilibrium of forces",
+      "detail": "Resultant forces; resolution of forces; moments and torque; conditions for equilibrium; centre of gravity and stability."
+    },
+    {
+      "topic": "Friction",
+      "detail": "Static and limiting friction; coefficient of friction; frictional forces; advantages and disadvantages; reducing friction."
+    },
+    {
+      "topic": "Work, energy and power",
+      "detail": "Work done; forms and conservation of energy; kinetic and potential energy; power; efficiency."
+    },
+    {
+      "topic": "Simple machines",
+      "detail": "Levers, pulleys, inclined planes and wheel-and-axle; mechanical advantage; velocity ratio; efficiency."
+    },
+    {
+      "topic": "Elasticity",
+      "detail": "Elastic properties; Hooke's law; force-extension graphs; Young's modulus; elastic potential energy."
+    },
+    {
+      "topic": "Pressure",
+      "detail": "Pressure in solids and fluids; atmospheric pressure; pressure measurement and applications."
+    },
+    {
+      "topic": "Liquids at rest",
+      "detail": "Density and relative density; pressure in liquids; upthrust; Archimedes' principle; flotation; hydraulic systems."
+    },
+    {
+      "topic": "Temperature and its measurement",
+      "detail": "Concept of temperature; thermometers; thermometric properties; temperature scales and conversion."
+    },
+    {
+      "topic": "Quantity of heat",
+      "detail": "Heat capacity; specific heat capacity; calorimetry; latent heat; heat calculations."
+    },
+    {
+      "topic": "Change of state",
+      "detail": "Melting, boiling, evaporation, condensation and freezing; latent heat; heating and cooling curves."
+    },
+    {
+      "topic": "Thermal expansion",
+      "detail": "Expansion of solids, liquids and gases; linear, area and volume expansion; applications and effects."
+    },
+    {
+      "topic": "Gas laws",
+      "detail": "Boyle's law; Charles' law; pressure law; combined gas law; ideal gas equation and graphs."
+    },
+    {
+      "topic": "Vapours",
+      "detail": "Saturated and unsaturated vapour; vapour pressure; humidity; dew point; relative humidity."
+    },
+    {
+      "topic": "Structure of matter and kinetic theory",
+      "detail": "Molecular nature of matter; states of matter; kinetic theory; Brownian motion; diffusion; molecular speeds and energy."
+    },
+    {
+      "topic": "Heat transfer",
+      "detail": "Conduction, convection and radiation; thermal conductivity; insulation; applications."
+    },
+    {
+      "topic": "Waves",
+      "detail": "Wave motion; transverse and longitudinal waves; wavelength, frequency, period, amplitude and speed; wave equation; reflection, refraction, diffraction and interference."
+    },
+    {
+      "topic": "Propagation of sound waves",
+      "detail": "Sound production and transmission; speed of sound; echoes; reflection; applications of sound."
+    },
+    {
+      "topic": "Characteristics of sound waves",
+      "detail": "Pitch, loudness and quality; frequency and amplitude; resonance; harmonics; musical notes and vibrations."
+    },
+    {
+      "topic": "Light energy",
+      "detail": "Nature and sources of light; luminous and non-luminous objects; rectilinear propagation; shadows; eclipses."
+    },
+    {
+      "topic": "Reflection of light at plane and curved surfaces",
+      "detail": "Laws of reflection; plane, concave and convex mirrors; image formation; mirror formula and magnification."
+    },
+    {
+      "topic": "Refraction of light through plane and curved surfaces",
+      "detail": "Laws of refraction; refractive index; critical angle; total internal reflection; prisms; lenses and image formation."
+    },
+    {
+      "topic": "Optical instruments",
+      "detail": "Simple and compound microscopes; telescopes; cameras; magnifying power; the human eye and vision correction."
+    },
+    {
+      "topic": "Dispersion of light, colours and the electromagnetic spectrum",
+      "detail": "Dispersion; spectrum and colour; additive/subtractive colour ideas; electromagnetic waves and their properties and uses."
+    },
+    {
+      "topic": "Electrostatics",
+      "detail": "Electric charge; conductors and insulators; charging methods; Coulomb's law; electric fields and potential; field patterns."
+    },
+    {
+      "topic": "Capacitors",
+      "detail": "Capacitance; parallel-plate capacitors; combinations; energy stored; factors affecting capacitance; applications."
+    },
+    {
+      "topic": "Electric cells",
+      "detail": "Primary and secondary cells; e.m.f. and internal resistance; series and parallel arrangements; charging and discharging."
+    },
+    {
+      "topic": "Current electricity",
+      "detail": "Electric current; potential difference; resistance; Ohm's law; resistors in series and parallel; circuit measurements; Kirchhoff-type simple circuit applications."
+    },
+    {
+      "topic": "Electrical energy and power",
+      "detail": "Electrical work, energy and power; heating effect of current; electrical consumption and cost calculations."
+    },
+    {
+      "topic": "Magnets and magnetic fields",
+      "detail": "Properties of magnets; magnetic materials; magnetic fields and field patterns; Earth's magnetic field; electromagnets."
+    },
+    {
+      "topic": "Force on a current-carrying conductor in a magnetic field",
+      "detail": "Motor effect; direction of force; Fleming's left-hand rule; force on a conductor; simple motor principle."
+    },
+    {
+      "topic": "Electromagnetic induction",
+      "detail": "Magnetic flux; induced e.m.f. and current; Faraday's and Lenz's laws; generators and transformers."
+    },
+    {
+      "topic": "Simple a.c. circuits",
+      "detail": "Alternating current and voltage; peak and r.m.s. values; a.c. circuits; reactance and impedance in simple cases; transformers."
+    },
+    {
+      "topic": "Conduction of electricity through liquids and gases",
+      "detail": "Electrolytes and electrolysis; ionisation; discharge through gases; applications and basic principles."
+    },
+    {
+      "topic": "Elementary modern physics",
+      "detail": "Atomic models; photoelectric effect; radioactivity; nuclear structure and reactions; basic quantum and nuclear ideas."
+    },
+    {
+      "topic": "Introductory electronics",
+      "detail": "Semiconductors; diodes; transistors; rectification; simple electronic circuits and logic ideas."
+    },
+    {
+      "topic": "Introduction to fibre optics and lasers",
+      "detail": "Total internal reflection in optical fibres; communication uses; laser properties, principles and applications."
+    }
+  ],
+  "Chemistry": [
+    {
+      "topic": "Separation of mixtures and purification of chemical substances",
+      "detail": "Elements, compounds and mixtures; physical and chemical changes; purity; melting/boiling points; evaporation, distillation, sublimation, crystallisation, chromatography, magnetisation, decantation, filtration and centrifugation."
+    },
+    {
+      "topic": "Chemical combination",
+      "detail": "Laws of chemical combination; symbols, formulae and equations; relative atomic mass; mole concept; chemical composition; stoichiometry."
+    },
+    {
+      "topic": "Kinetic theory of matter and gas laws",
+      "detail": "States of matter and molecular motion; changes of state; Brownian movement; Boyle, Charles, Avogadro, Gay-Lussac, Graham and Dalton laws; molar volume; ideal gas equation; vapour density; real and ideal gases."
+    },
+    {
+      "topic": "Atomic structure and bonding",
+      "detail": "Atoms, molecules and ions; historical atomic models; protons, neutrons and electrons; quantum numbers and orbitals; electron configuration; isotopes; periodic table and periodicity; ionic, covalent, coordinate, metallic and hydrogen bonding; molecular shapes."
+    },
+    {
+      "topic": "Nuclear chemistry",
+      "detail": "Types and detection of radiation; natural and artificial radioactivity; nuclear stability and decay; half-life; nuclear equations; fission and fusion; applications."
+    },
+    {
+      "topic": "Solubility",
+      "detail": "Saturated and unsaturated solutions; solubility curves; factors affecting solubility; concentration; crystallisation; solubility product in simple cases."
+    },
+    {
+      "topic": "Environmental pollution",
+      "detail": "Air, water and soil pollution; pollutants and sources; effects; greenhouse effect, acid rain, ozone depletion; control and prevention."
+    },
+    {
+      "topic": "Acids, bases and salts",
+      "detail": "Definitions and properties; strong and weak acids/bases; pH; indicators; neutralisation; preparation and uses of salts; hydrolysis; titration and simple calculations."
+    },
+    {
+      "topic": "Oxidation and reduction (redox)",
+      "detail": "Oxidation and reduction concepts; oxidation numbers; oxidising and reducing agents; redox equations; electron transfer."
+    },
+    {
+      "topic": "Electrolysis",
+      "detail": "Electrolytes and non-electrolytes; electrolytic cells; preferential discharge; Faraday's laws; electroplating; extraction and purification of metals."
+    },
+    {
+      "topic": "Energy changes",
+      "detail": "Exothermic and endothermic reactions; enthalpy changes; energy profiles; bond energies; heat of reaction and simple calculations."
+    },
+    {
+      "topic": "Rates of chemical reaction",
+      "detail": "Rate measurement; collision theory; activation energy; concentration, pressure, temperature, surface area and catalysts; rate graphs."
+    },
+    {
+      "topic": "Chemical equilibria",
+      "detail": "Reversible reactions; dynamic equilibrium; Le Chatelier's principle; equilibrium constants and factors affecting equilibrium."
+    },
+    {
+      "topic": "Non-metals and their compounds",
+      "detail": "Hydrogen; oxygen and ozone; water; halogens and hydrogen halides; nitrogen and its compounds; sulphur and its compounds; carbon and its compounds; properties, preparation, uses and tests."
+    },
+    {
+      "topic": "Metals and their compounds",
+      "detail": "Occurrence and extraction; reactivity series; properties and uses of metals; iron, aluminium, copper, sodium, calcium and their compounds; corrosion and prevention; alloys."
+    },
+    {
+      "topic": "Organic compounds",
+      "detail": "Hydrocarbons; homologous series; nomenclature; isomerism; alkanes, alkenes, alkynes and aromatic compounds; functional groups; alcohols, aldehydes, ketones, acids, esters, amines and polymers; reactions and uses."
+    },
+    {
+      "topic": "Chemistry and industry",
+      "detail": "Chemical industries and processes; raw materials; manufacture of common chemicals; industrial applications; environmental and economic considerations."
+    },
+    {
+      "topic": "Astronomical chemistry",
+      "detail": "Elements and compounds in space; composition of stars and celestial bodies; origin and abundance of elements; basic astrochemistry."
+    }
+  ],
+  "Use of English": [
+    {
+      "topic": "A. Comprehension / Summary",
+      "detail": "Passage types: description, narration, exposition, argumentation and persuasion; comprehension of whole/parts; main points and topic sentences; implied meaning and inference; writer's intention, mood, attitude and opinion; words, phrases, clauses, figures of speech and idioms in context; coherence and logical reasoning; synthesis and summary; cloze passage; prescribed reading text (confirm the 2027 text with JAMB)."
+    },
+    {
+      "topic": "B. Lexis and Structure",
+      "detail": "Synonyms; antonyms; homonyms; clause and sentence patterns; word classes and functions; nouns, pronouns, verbs, adjectives, adverbs, prepositions, conjunctions, determiners and interjections; mood, tense and aspect; number and concord/agreement; degrees of comparison; question tags; punctuation; spelling; ordinary, figurative and idiomatic usage; sentence interpretation and completion."
+    },
+    {
+      "topic": "C. Oral Forms",
+      "detail": "Vowels: monophthongs and diphthongs (also practise triphthong distinctions where covered in teaching materials); consonants and consonant clusters; rhymes and homophones; word stress in monosyllabic and polysyllabic words; intonation and emphatic stress in connected speech; correct accentuation and articulation."
+    }
+  ]
+}
